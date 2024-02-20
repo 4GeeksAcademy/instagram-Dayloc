@@ -1,0 +1,31 @@
+.b1{
+    background: rgb(239, 239, 239);
+ 
+    }
+   header{
+    color: rgb(40, 26, 4);
+    background-color: white;
+   }
+   #letra{
+    font-size: 40;
+    color: aqua;
+    width: 600px;
+
+   }
+   .contenedor{
+    
+    width: 600px;
+    margin: 0 auto;
+    
+    }
+
+   #fecha{
+    color: dimgray; 
+  }
+  .encabezado{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+  }
+  
