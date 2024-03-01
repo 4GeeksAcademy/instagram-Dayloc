@@ -1,31 +1,71 @@
-.b1{
-    background: rgb(239, 239, 239);
- 
-    }
-   header{
-    color: rgb(40, 26, 4);
-    background-color: white;
-   }
-   #letra{
-    font-size: 40;
-    color: aqua;
-    width: 600px;
+body{
+    background-color: black;
+}
 
-   }
-   .contenedor{
-    
-    width: 600px;
-    margin: 0 auto;
-    
-    }
+*,::after,::before{
+    box-sizing: border-box;
+}
+*{
 
-   #fecha{
-    color: dimgray; 
-  }
-  .encabezado{
+
+.container{
+    width: 450px;
+    height: 300px;
+}
+#photo{
+    width: 100%;
+    height: 200px;
+}
+.card-text{
+    font-size: small;
+}
+.bajofoto{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#logo {
+    width: 35px;
+    height: 45px;
+}
+.header{
+    
+    display: flex;
+    align-items: top;
+    
+}
+.spam{
+    font-style: inherit;
+}
+.rigo{
+    margin-right: 65%;
+   
+}
+.puntos{
+    width: 35px;
+    height: 45px;
 
-  }
-  
+}
+#cora{
+    width: 45px;
+    height: 45px
+}
+#mensaje{
+    width: 45px;
+    height: 45px;
+
+}
+#avion{
+    width: 45px;
+    height: 45px;
+
+
+}
+#band{
+    width: 45px;
+    height: 45px;
+    margin-left: 445%;
+}
+#pp{
+    width: 35px;
+    height: 45px;
+}
