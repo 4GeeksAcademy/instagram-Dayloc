@@ -10,3 +10,10 @@
 .tarea{
     margin-left: 20px;
 }
+#fotos123{
+    width: 800px;
+    height: 800px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15%;
+}
